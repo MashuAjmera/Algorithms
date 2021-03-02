@@ -54,7 +54,7 @@ Optimization problem by checking all possible solutions- brute force technique.
 Using DFS to generate various feasible solutions by brute force technique.
 
 - [N Queens Problem](https://github.com/MashuAjmera/Algorithms/blob/master/nQueens.cpp)
-- Sum of Subsets
+- [Sum of Subsets](https://github.com/MashuAjmera/Algorithms/blob/master/subset_sum.cpp)
 - Graph Coloring
 - Hamiltonian Cycle
 
