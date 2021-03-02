@@ -7,7 +7,6 @@ A repository of the various popular algorithms I have coded in C and C++:
 - [Merge Sort](https://github.com/MashuAjmera/Algorithms/blob/master/mergesort.c)
 - [Selection Sort](https://github.com/MashuAjmera/Algorithms/blob/master/selectionsort.c)
 - [Instertion Sort](https://github.com/MashuAjmera/Algorithms/blob/master/insertionsort.c)
-- Heap Sort
 - Quick Sort
 - Topological Sort
 
@@ -24,9 +23,8 @@ A repository of the various popular algorithms I have coded in C and C++:
 Optimization problem by making locally best decisions.
 
 - Knapsack
-- Job Sequencing with Deadlines
-- Optimalerge Pattern
-- Huffman Coding
+- [Job Sequencing with Deadlines](https://github.com/MashuAjmera/Algorithms/blob/master/job_sequencing.cpp) | [Tutorial](https://youtu.be/zPtI8q9gvX8)
+- [Optimal File Merge Pattern / Huffman Coding](https://github.com/MashuAjmera/Algorithms/blob/master/merge_pattern.cpp) | [Tutorial](https://youtu.be/HHIc5JZyenI)
 - Prims Algorithm
 - Kruskal Algorithm
 - Dijkstra's Algorithm
@@ -42,6 +40,7 @@ Optimization problem by checking all possible solutions- brute force technique.
 - Subset Sum Problem
 - Matrix Multiplication
 - Floyd Warshal
+- [Weighted Job Sheduling](https://github.com/MashuAjmera/Algorithms/blob/master/weighted_jobs.cpp) | [Tutorial](https://youtu.be/cr6Ip0J9izc)
 - Bellman Ford
 - Multistage Graph
 - Reliability Design
@@ -54,7 +53,7 @@ Optimization problem by checking all possible solutions- brute force technique.
 
 Using DFS to generate various feasible solutions by brute force technique.
 
-- N Queens Problem
+- [N Queens Problem](https://github.com/MashuAjmera/Algorithms/blob/master/nQueens.cpp)
 - Sum of Subsets
 - Graph Coloring
 - Hamiltonian Cycle
@@ -83,6 +82,16 @@ Using BFS to generate various feasible solutions by brute force technique.
 ## Pattern Matching
 
 - Z Algorithm Z Values
+
+## Bit Manipulation
+
+- [Find even/odd](https://github.com/MashuAjmera/Algorithms/blob/master/even_odd.cpp) | [Tutorial](https://youtu.be/cr6Ip0J9izc)
+- [Swap two numbers](https://github.com/MashuAjmera/Algorithms/blob/master/swap.cpp) | [Tutorial](https://youtu.be/cr6Ip0J9izc)
+- [Mask ith bit to find, set and clear](https://github.com/MashuAjmera/Algorithms/blob/master/mask_i.cpp) | [Tutorial](https://www.youtube.com/watch?v=h7meukyY_bQ)
+- [Find number of bits to change to convert a to b](https://github.com/MashuAjmera/Algorithms/blob/master/bits_to_change.cpp) | [Tutorial](https://www.youtube.com/watch?v=h7meukyY_bQ)
+- [Find the only non-repeating element in an array where every other element repeats twice](https://github.com/MashuAjmera/Algorithms/blob/master/one_twice.cpp) | [Tutorial](https://www.youtube.com/watch?v=bTauscvOymA)
+- [Find the two non-repeating elements in an array where every other element repeats twice](https://github.com/MashuAjmera/Algorithms/blob/master/two_twice.cpp) | [Tutorial](https://www.youtube.com/watch?v=bTauscvOymA)
+- Find the only non-repeating element in an array where every other element repeats k times | [Tutorial](https://www.youtube.com/watch?v=bTauscvOymA)
 
 ## Miscellaneous
 
