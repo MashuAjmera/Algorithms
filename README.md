@@ -31,7 +31,6 @@ Optimization problem by making locally best decisions.
 - [Optimal File Merge Pattern / Huffman Coding](https://github.com/MashuAjmera/Algorithms/blob/master/merge_pattern.cpp) | [Tutorial](https://youtu.be/HHIc5JZyenI)
 - [Prim's Algorithm](https://github.com/MashuAjmera/Algorithms/blob/master/prim.cpp) | [Tutorial](https://youtu.be/xthRL0lcx2w)
 - Kruskal Algorithm
-- Dijkstra's Algorithm
 
 ## Dynamic Programming
 

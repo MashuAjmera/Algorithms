@@ -1,3 +1,12 @@
+/* 
+Problem: Job Sequencing with Deadline
+Tutorial: https://youtu.be/zPtI8q9gvX8
+Solution Approach: Greedy Algorithm
+Time Complexity:
+Space Complexity: 
+Author: Mashu Ajmera
+*/
+
 #include <iostream>
 #include <algorithm>
 using namespace std;
@@ -10,16 +19,15 @@ int main()
     int slots = *max_element(deadlines, deadlines + jobs), count = 0;
     int sequence[slots] = {};
 
-    for (int i = 0; i < jobs && count <= 4; i++)
+    for (int i = 0; i < jobs; i++)
         for (int j = deadlines[i] - 1; j >= 0; j--)
             if (sequence[j] == 0)
             {
                 sequence[j] = i + 1;
-                count++;
                 break;
             }
 
     cout << "The sequence of selected job is:";
     for (int i = 0; i < slots; i++)
-        cout << " " << sequence[i];
+        cout << " " << sequence[i] << "(" << profits[sequence[i] - 1] << ")";
 }
