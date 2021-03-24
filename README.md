@@ -8,11 +8,15 @@ A repository of the various popular algorithms I have coded in C and C++:
 - [Selection Sort](https://github.com/MashuAjmera/Algorithms/blob/master/selectionsort.c)
 - [Instertion Sort](https://github.com/MashuAjmera/Algorithms/blob/master/insertionsort.c)
 - Quick Sort
-- Topological Sort
 
 ## Searching Techniques
 
-- Binary Search
+- [Binary Search](https://github.com/MashuAjmera/Algorithms/blob/master/binary_search.cpp) | [Tutorial](https://youtu.be/C2apEw9pgtw)
+
+## Array
+
+- [Maximum Subarray Sum using Kadane's Algorithm](https://github.com/MashuAjmera/Algorithms/blob/master/kadane.cpp) | [Tutorial](https://www.youtube.com/watch?v=HCL4_bOd3-4)
+- [Rainwater Trapping Problem](https://github.com/MashuAjmera/Algorithms/blob/master/trap_rainwater.cpp) | [Tutorial](https://www.youtube.com/watch?v=UZG3-vZlFM4)
 
 ## Divide and Conquer
 
@@ -25,7 +29,7 @@ Optimization problem by making locally best decisions.
 - Knapsack
 - [Job Sequencing with Deadlines](https://github.com/MashuAjmera/Algorithms/blob/master/job_sequencing.cpp) | [Tutorial](https://youtu.be/zPtI8q9gvX8)
 - [Optimal File Merge Pattern / Huffman Coding](https://github.com/MashuAjmera/Algorithms/blob/master/merge_pattern.cpp) | [Tutorial](https://youtu.be/HHIc5JZyenI)
-- Prims Algorithm
+- Prim's Algorithm
 - Kruskal Algorithm
 - Dijkstra's Algorithm
 
@@ -44,6 +48,7 @@ Optimization problem by checking all possible solutions- brute force technique.
 - Bellman Ford
 - Multistage Graph
 - Reliability Design
+- Longest palindromic subsequence(https://github.com/MashuAjmera/Algorithms/blob/master/palindrome.cpp) | [Tutorial](https://youtu.be/UflHuQj6MVA)
 
 ## Genetic Algorithm
 
@@ -55,7 +60,7 @@ Using DFS to generate various feasible solutions by brute force technique.
 
 - [N Queens Problem](https://github.com/MashuAjmera/Algorithms/blob/master/nQueens.cpp)
 - [Sum of Subsets](https://github.com/MashuAjmera/Algorithms/blob/master/subset_sum.cpp)
-- Graph Coloring
+- [Graph Coloring](https://github.com/MashuAjmera/Algorithms/blob/master/graph_coloring.cpp) | [Tutorial](https://youtu.be/052VkKhIaQ4)
 - Hamiltonian Cycle
 
 ## Branch and Bound
@@ -73,6 +78,7 @@ Using BFS to generate various feasible solutions by brute force technique.
 - Cycle in Directed Graph
 - Kosarajus Algorithm
 - Disjoint Sets
+- [Topological Sort](https://github.com/MashuAjmera/Algorithms/blob/master/topo_sort.cpp) | [Tutorial](https://youtu.be/qe_pQCh09yU)
 
 ## Tree
 
@@ -82,6 +88,7 @@ Using BFS to generate various feasible solutions by brute force technique.
 ## Pattern Matching
 
 - Z Algorithm Z Values
+- Manacher's Algorithm
 
 ## Bit Manipulation
 
@@ -98,6 +105,5 @@ Using BFS to generate various feasible solutions by brute force technique.
 - Range Minimum Query using Segment tree
 - Range Minimum Query using Sparse Table
 - Convex Hull
-- Maximum Subarray Sum
 
 **Note**: Those without links will be uploaded soon.
