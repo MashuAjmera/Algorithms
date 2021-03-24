@@ -29,7 +29,7 @@ Optimization problem by making locally best decisions.
 - Knapsack
 - [Job Sequencing with Deadlines](https://github.com/MashuAjmera/Algorithms/blob/master/job_sequencing.cpp) | [Tutorial](https://youtu.be/zPtI8q9gvX8)
 - [Optimal File Merge Pattern / Huffman Coding](https://github.com/MashuAjmera/Algorithms/blob/master/merge_pattern.cpp) | [Tutorial](https://youtu.be/HHIc5JZyenI)
-- Prim's Algorithm
+- [Prim's Algorithm](https://github.com/MashuAjmera/Algorithms/blob/master/prim.cpp) | [Tutorial](https://youtu.be/xthRL0lcx2w)
 - Kruskal Algorithm
 - Dijkstra's Algorithm
 
@@ -48,7 +48,8 @@ Optimization problem by checking all possible solutions- brute force technique.
 - Bellman Ford
 - Multistage Graph
 - Reliability Design
-- Longest palindromic subsequence(https://github.com/MashuAjmera/Algorithms/blob/master/palindrome.cpp) | [Tutorial](https://youtu.be/UflHuQj6MVA)
+- [Longest palindromic subsequence](https://github.com/MashuAjmera/Algorithms/blob/master/palindrome.cpp) | [Tutorial](https://youtu.be/UflHuQj6MVA)
+- [Minimum subset sum difference](https://github.com/MashuAjmera/Algorithms/blob/master/sum_diff.cpp) | [Tutorial](https://youtu.be/FB0KUhsxXGY)
 
 ## Genetic Algorithm
 
