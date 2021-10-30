@@ -1,3 +1,8 @@
+// Leetcode: https://leetcode.com/problems/last-stone-weight-ii
+// Github: https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/
+// Author: Mashu Ajmera
+// YouTube: https://youtu.be/FB0KUhsxXGY
+
 #include <iostream>
 #include <numeric>
 using namespace std;
