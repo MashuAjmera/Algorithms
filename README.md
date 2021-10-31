@@ -48,7 +48,7 @@ Optimization problem by checking all possible solutions- brute force technique.
 - Multistage Graph
 - Reliability Design
 - [Longest palindromic subsequence](https://github.com/MashuAjmera/Algorithms/blob/master/palindrome.cpp) | [Tutorial](https://youtu.be/UflHuQj6MVA)
-- [Minimum subset sum difference](https://github.com/MashuAjmera/Algorithms/blob/master/sum_diff.cpp) | [Tutorial](https://youtu.be/FB0KUhsxXGY)
+- [Minimum subset sum difference](https://github.com/MashuAjmera/Algorithms/blob/master/sum_diff.cpp) | [In Python](https://github.com/MashuAjmera/Algorithms/blob/master/sum_diff.py)
 
 ## Genetic Algorithm
 
