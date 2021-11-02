@@ -9,9 +9,6 @@ from sys import maxsize
 
 class Solution:
     def nextPermutation(self, nums) -> None:
-        """
-        Do not return anything, modify nums in-place instead.
-        """
         N=len(nums)
         for i in range(N-1):
             if nums[N-i-2]<nums[N-i-1]:
