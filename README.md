@@ -17,6 +17,7 @@ A repository of the various popular algorithms I have coded in C and C++:
 
 - [Maximum Subarray Sum using Kadane's Algorithm](https://github.com/MashuAjmera/Algorithms/blob/master/kadane.cpp) | [Tutorial](https://www.youtube.com/watch?v=HCL4_bOd3-4)
 - [Rainwater Trapping Problem](https://github.com/MashuAjmera/Algorithms/blob/master/trap_rainwater.cpp) | [Tutorial](https://www.youtube.com/watch?v=UZG3-vZlFM4)
+- [Next Permutation](https://github.com/MashuAjmera/Algorithms/blob/master/next.py)
 
 ## Divide and Conquer
 
