@@ -42,7 +42,7 @@ Optimization problem by checking all possible solutions- brute force technique.
 - [Travelling Salesman Problem](https://github.com/MashuAjmera/Algorithms/blob/master/tsp.cpp) | [Tutorial](https://youtu.be/hh-uFQ-MGfw)
 - [Longest Common Subsequence](https://github.com/MashuAjmera/Algorithms/blob/master/lcs.py)
 - [Subset Sum Problem](https://github.com/MashuAjmera/Algorithms/blob/master/subset_sum.py)
-- Matrix Multiplication
+- [Matrix Chain Multiplication](https://github.com/MashuAjmera/Algorithms/blob/master/mcm.py)
 - Floyd Warshal
 - [Weighted Job Sheduling](https://github.com/MashuAjmera/Algorithms/blob/master/weighted_jobs.cpp) | [Tutorial](https://youtu.be/cr6Ip0J9izc)
 - Bellman Ford
