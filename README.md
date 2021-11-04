@@ -46,7 +46,7 @@ Optimization problem by checking all possible solutions- brute force technique.
 - Floyd Warshal
 - [Weighted Job Sheduling](https://github.com/MashuAjmera/Algorithms/blob/master/weighted_jobs.cpp) | [Tutorial](https://youtu.be/cr6Ip0J9izc)
 - Bellman Ford
-- Multistage Graph
+- [Multistage Graph](https://github.com/MashuAjmera/Algorithms/blob/master/multistage_dp.py) | [Recursion Solution](https://github.com/MashuAjmera/Algorithms/blob/master/multistage_recursion.py)
 - Reliability Design
 - [Longest palindromic subsequence](https://github.com/MashuAjmera/Algorithms/blob/master/palindrome.cpp) | [Tutorial](https://youtu.be/UflHuQj6MVA)
 - [Minimum subset sum difference](https://github.com/MashuAjmera/Algorithms/blob/master/sum_diff.cpp) | [In Python](https://github.com/MashuAjmera/Algorithms/blob/master/sum_diff.py)
