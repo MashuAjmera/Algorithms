@@ -1,6 +1,10 @@
 # Algorithms
 
-A repository of the various popular algorithms I have coded in C++ and Python. There is meta information like problem description, tutorial at the top of each program file.
+A repository of the various popular algorithms I have coded in C++ and Python. 
+
+There is meta information like problem description and tutorial at the top of each program file. Some additional algorithms are present at [my data structures repository](https://github.com/MashuAjmera/Data-Structures).
+
+**Note**: Those without links will be uploaded soon.
 
 ## Sorting
 
@@ -51,10 +55,6 @@ Optimization problem by checking all possible solutions- brute force technique.
 - [Longest palindromic subsequence](https://github.com/MashuAjmera/Algorithms/blob/master/palindrome.cpp)
 - [Minimum subset sum difference](https://github.com/MashuAjmera/Algorithms/blob/master/sum_diff.cpp) | [In Python](https://github.com/MashuAjmera/Algorithms/blob/master/sum_diff.py)
 
-## Genetic Algorithm
-
-- [0/1 Knapsack Problem](https://github.com/MashuAjmera/Algorithms/blob/master/knapsack.c)
-
 ## Backtracking
 
 Using DFS to generate various feasible solutions by brute force technique.
@@ -92,6 +92,10 @@ Using BFS to generate various feasible solutions by brute force technique.
 - Z Algorithm Z Values
 - Manacher's Algorithm
 
+## Genetic Algorithm
+
+- [0/1 Knapsack Problem](https://github.com/MashuAjmera/Algorithms/blob/master/knapsack.cpp)
+
 ## Bit Manipulation
 
 - [Find even/odd](https://github.com/MashuAjmera/Algorithms/blob/master/even_odd.cpp) | [Tutorial](https://youtu.be/cr6Ip0J9izc)
@@ -107,5 +111,3 @@ Using BFS to generate various feasible solutions by brute force technique.
 - Range Minimum Query using Segment tree
 - Range Minimum Query using Sparse Table
 - Convex Hull
-
-**Note**: Those without links will be uploaded soon.
