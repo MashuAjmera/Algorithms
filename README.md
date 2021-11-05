@@ -1,12 +1,12 @@
 # Algorithms
 
-A repository of the various popular algorithms I have coded in C and C++:
+A repository of the various popular algorithms I have coded in C++ and Python:
 
 ## Sorting
 
-- [Merge Sort](https://github.com/MashuAjmera/Algorithms/blob/master/mergesort.c)
-- [Selection Sort](https://github.com/MashuAjmera/Algorithms/blob/master/selectionsort.c)
-- [Instertion Sort](https://github.com/MashuAjmera/Algorithms/blob/master/insertionsort.c)
+- [Merge Sort](https://github.com/MashuAjmera/Algorithms/blob/master/mergesort.cpp)
+- [Selection Sort](https://github.com/MashuAjmera/Algorithms/blob/master/selectionsort.cpp)
+- [Instertion Sort](https://github.com/MashuAjmera/Algorithms/blob/master/insertionsort.cpp)
 - Quick Sort
 
 ## Searching Techniques
@@ -62,7 +62,8 @@ Using DFS to generate various feasible solutions by brute force technique.
 - [N Queens Problem](https://github.com/MashuAjmera/Algorithms/blob/master/nQueens.cpp)
 - [Sum of Subsets](https://github.com/MashuAjmera/Algorithms/blob/master/subset_sum.cpp)
 - [Graph Coloring](https://github.com/MashuAjmera/Algorithms/blob/master/graph_coloring.cpp) | [Tutorial](https://youtu.be/052VkKhIaQ4)
-- Hamiltonian Cycle
+- [Hamiltonian Cycle](https://github.com/MashuAjmera/Algorithms/blob/master/hamiltonian.py)
+- Sudoku | [GFG](https://www.geeksforgeeks.org/backtracking-set-7-suduku/) | [Leetcode](https://leetcode.com/problems/sudoku-solver/)
 
 ## Branch and Bound
 
