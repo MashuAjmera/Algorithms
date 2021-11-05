@@ -1,6 +1,6 @@
 # Algorithms
 
-A repository of the various popular algorithms I have coded in C++ and Python:
+A repository of the various popular algorithms I have coded in C++ and Python. There is meta information like problem description, tutorial at the top of each program file.
 
 ## Sorting
 
@@ -11,7 +11,7 @@ A repository of the various popular algorithms I have coded in C++ and Python:
 
 ## Searching Techniques
 
-- [Binary Search](https://github.com/MashuAjmera/Algorithms/blob/master/binary_search.cpp) | [Tutorial](https://youtu.be/C2apEw9pgtw)
+- [Binary Search](https://github.com/MashuAjmera/Algorithms/blob/master/binary_search.cpp)
 
 ## Array
 
@@ -38,17 +38,17 @@ Optimization problem by making locally best decisions.
 Optimization problem by checking all possible solutions- brute force technique.
 
 - [0/1 Knapsack Problem](https://github.com/MashuAjmera/Algorithms/blob/master/01knapsack.cpp)
-- [Coin Change](https://github.com/MashuAjmera/Algorithms/blob/master/coin_change.cpp) | [Tutorial](https://youtu.be/L27_JpN6Z1Q)
-- [Travelling Salesman Problem](https://github.com/MashuAjmera/Algorithms/blob/master/tsp.cpp) | [Tutorial](https://youtu.be/hh-uFQ-MGfw)
+- [Coin Change](https://github.com/MashuAjmera/Algorithms/blob/master/coin_change.cpp)
+- [Travelling Salesman Problem](https://github.com/MashuAjmera/Algorithms/blob/master/tsp.cpp)
 - [Longest Common Subsequence](https://github.com/MashuAjmera/Algorithms/blob/master/lcs.py)
 - [Subset Sum Problem](https://github.com/MashuAjmera/Algorithms/blob/master/subset_sum.py)
 - [Matrix Chain Multiplication](https://github.com/MashuAjmera/Algorithms/blob/master/mcm.py)
 - Floyd Warshal
-- [Weighted Job Sheduling](https://github.com/MashuAjmera/Algorithms/blob/master/weighted_jobs.cpp) | [Tutorial](https://youtu.be/cr6Ip0J9izc)
+- [Weighted Job Sheduling](https://github.com/MashuAjmera/Algorithms/blob/master/weighted_jobs.cpp)
 - Bellman Ford
 - [Multistage Graph](https://github.com/MashuAjmera/Algorithms/blob/master/multistage_dp.py) | [Recursion Solution](https://github.com/MashuAjmera/Algorithms/blob/master/multistage_recursion.py)
 - Reliability Design
-- [Longest palindromic subsequence](https://github.com/MashuAjmera/Algorithms/blob/master/palindrome.cpp) | [Tutorial](https://youtu.be/UflHuQj6MVA)
+- [Longest palindromic subsequence](https://github.com/MashuAjmera/Algorithms/blob/master/palindrome.cpp)
 - [Minimum subset sum difference](https://github.com/MashuAjmera/Algorithms/blob/master/sum_diff.cpp) | [In Python](https://github.com/MashuAjmera/Algorithms/blob/master/sum_diff.py)
 
 ## Genetic Algorithm
@@ -61,7 +61,7 @@ Using DFS to generate various feasible solutions by brute force technique.
 
 - [N Queens Problem](https://github.com/MashuAjmera/Algorithms/blob/master/nQueens.cpp)
 - [Sum of Subsets](https://github.com/MashuAjmera/Algorithms/blob/master/subset_sum.cpp)
-- [Graph Coloring](https://github.com/MashuAjmera/Algorithms/blob/master/graph_coloring.cpp) | [Tutorial](https://youtu.be/052VkKhIaQ4)
+- [Graph Coloring](https://github.com/MashuAjmera/Algorithms/blob/master/graph_coloring.cpp)
 - [Hamiltonian Cycle](https://github.com/MashuAjmera/Algorithms/blob/master/hamiltonian.py)
 - Sudoku | [GFG](https://www.geeksforgeeks.org/backtracking-set-7-suduku/) | [Leetcode](https://leetcode.com/problems/sudoku-solver/)
 
@@ -80,7 +80,7 @@ Using BFS to generate various feasible solutions by brute force technique.
 - Cycle in Directed Graph
 - Kosarajus Algorithm
 - Disjoint Sets
-- [Topological Sort](https://github.com/MashuAjmera/Algorithms/blob/master/topo_sort.cpp) | [Tutorial](https://youtu.be/qe_pQCh09yU)
+- [Topological Sort](https://github.com/MashuAjmera/Algorithms/blob/master/topo_sort.cpp)
 
 ## Tree
 
