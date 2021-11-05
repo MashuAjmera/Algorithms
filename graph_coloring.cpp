@@ -1,3 +1,12 @@
+/* 
+Problem: Graph Coloring
+YouTube: https://youtu.be/052VkKhIaQ4
+Solution Approach: Backtracking
+Time Complexity:
+Space Complexity: 
+Author: Mashu Ajmera
+*/
+
 #include <iostream>
 using namespace std;
 #define N 4

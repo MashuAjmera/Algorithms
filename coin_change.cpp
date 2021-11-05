@@ -1,3 +1,12 @@
+/* 
+Problem: Coin Change Problem
+YouTube: https://youtu.be/L27_JpN6Z1Q
+Solution Approach: Dynamic Programming
+Time Complexity:
+Space Complexity: 
+Author: Mashu Ajmera
+*/
+
 #include <iostream>
 using namespace std;
 

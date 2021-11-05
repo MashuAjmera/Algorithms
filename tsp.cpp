@@ -1,3 +1,12 @@
+/* 
+Problem: Travelling Salesman Problem
+YouTube: https://youtu.be/hh-uFQ-MGfw
+Solution Approach: Dynamic Programming
+Time Complexity:
+Space Complexity: 
+Author: Mashu Ajmera
+*/
+
 #include <iostream>
 #include <vector>
 #include <limits.h>

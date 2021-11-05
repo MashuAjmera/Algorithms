@@ -1,3 +1,12 @@
+/* 
+Problem: Weighted Job Scheduling
+YouTube: https://youtu.be/cr6Ip0J9izc
+Solution Approach: Dynamic Programming
+Time Complexity:
+Space Complexity: 
+Author: Mashu Ajmera
+*/
+
 #include <iostream>
 #include <algorithm>
 using namespace std;

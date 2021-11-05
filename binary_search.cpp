@@ -1,3 +1,12 @@
+/* 
+Problem: Binary Search
+YouTube: https://youtu.be/C2apEw9pgtw
+Solution Approach: 
+Time Complexity:
+Space Complexity: 
+Author: Mashu Ajmera
+*/
+
 #include <iostream>
 #include <cmath>
 using namespace std;

@@ -1,3 +1,12 @@
+/* 
+Problem: Topological Sort
+YouTube: hhttps://youtu.be/qe_pQCh09yU
+Solution Approach: 
+Time Complexity:
+Space Complexity: 
+Author: Mashu Ajmera
+*/
+
 #include <iostream>
 #include <list>
 #include <stack>
