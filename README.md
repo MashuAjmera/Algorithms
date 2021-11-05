@@ -15,8 +15,8 @@ A repository of the various popular algorithms I have coded in C++ and Python:
 
 ## Array
 
-- [Maximum Subarray Sum using Kadane's Algorithm](https://github.com/MashuAjmera/Algorithms/blob/master/kadane.cpp) | [Tutorial](https://www.youtube.com/watch?v=HCL4_bOd3-4)
-- [Rainwater Trapping Problem](https://github.com/MashuAjmera/Algorithms/blob/master/trap_rainwater.cpp) | [Tutorial](https://www.youtube.com/watch?v=UZG3-vZlFM4)
+- [Maximum Subarray Sum using Kadane's Algorithm](https://github.com/MashuAjmera/Algorithms/blob/master/kadane.cpp)
+- [Rainwater Trapping Problem](https://github.com/MashuAjmera/Algorithms/blob/master/trap_rainwater.cpp)
 - [Next Permutation](https://github.com/MashuAjmera/Algorithms/blob/master/next.py)
 
 ## Divide and Conquer
@@ -28,9 +28,9 @@ A repository of the various popular algorithms I have coded in C++ and Python:
 Optimization problem by making locally best decisions.
 
 - Knapsack
-- [Job Sequencing with Deadlines](https://github.com/MashuAjmera/Algorithms/blob/master/job_sequencing.cpp) | [Tutorial](https://youtu.be/zPtI8q9gvX8)
-- [Optimal File Merge Pattern / Huffman Coding](https://github.com/MashuAjmera/Algorithms/blob/master/merge_pattern.cpp) | [Tutorial](https://youtu.be/HHIc5JZyenI)
-- [Prim's Algorithm](https://github.com/MashuAjmera/Algorithms/blob/master/prim.cpp) | [Tutorial](https://youtu.be/xthRL0lcx2w)
+- [Job Sequencing with Deadlines](https://github.com/MashuAjmera/Algorithms/blob/master/job_sequencing.cpp)
+- [Optimal File Merge Pattern / Huffman Coding](https://github.com/MashuAjmera/Algorithms/blob/master/merge_pattern.cpp)
+- [Prim's Algorithm](https://github.com/MashuAjmera/Algorithms/blob/master/prim.cpp)
 - Kruskal Algorithm
 
 ## Dynamic Programming

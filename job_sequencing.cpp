@@ -1,6 +1,6 @@
 /* 
 Problem: Job Sequencing with Deadline
-Tutorial: https://youtu.be/zPtI8q9gvX8
+YoutTube: https://youtu.be/zPtI8q9gvX8
 Solution Approach: Greedy Algorithm
 Time Complexity:
 Space Complexity: 

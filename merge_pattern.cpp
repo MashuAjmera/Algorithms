@@ -1,3 +1,12 @@
+/* 
+Problem: Job Sequencing with Deadline
+YouTube: https://youtu.be/HHIc5JZyenI
+Solution Approach: Greedy Algorithm
+Time Complexity:
+Space Complexity: 
+Author: Mashu Ajmera
+*/
+
 #include <iostream>
 #include <queue>
 using namespace std;

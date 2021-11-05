@@ -1,3 +1,8 @@
+// Problem: Maximum Subarray Sum
+// Approach: Kadane's Algorithm
+// YouTube: https://www.youtube.com/watch?v=HCL4_bOd3-4
+// Author: Mashu Ajmera
+
 #include <iostream>
 #include <climits>
 using namespace std;

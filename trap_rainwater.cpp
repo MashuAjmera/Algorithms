@@ -1,3 +1,7 @@
+// Problem: Rain Water Trapping Problem
+// YouTube: https://www.youtube.com/watch?v=UZG3-vZlFM4
+// Author: Mashu Ajmera
+
 #include <iostream>
 using namespace std;
 int main()

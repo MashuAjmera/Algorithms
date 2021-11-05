@@ -1,3 +1,12 @@
+/* 
+Problem: Prim's Algorithm
+YouTube: https://youtu.be/xthRL0lcx2w
+Solution Approach: Greedy Algorithm
+Time Complexity:
+Space Complexity: 
+Author: Mashu Ajmera
+*/
+
 #include <iostream>
 #include <climits>
 #include <bits/stdc++.h>
